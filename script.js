@@ -59,7 +59,7 @@ function showWelcomeMessage() {
             title: 'Cảm Ơn Bạn Đã Sử Dụng Config Bên Mình',
             html: `
                 <div style="text-align: center; padding: 20px;">
-                    <p style="font-size: 16px; margin-bottom: 15px;">Menu mod được tạo bởi Hà Văn Huấn</p>
+                    <p style="font-size: 16px; margin-bottom: 15px;">Config Độc Quyền Make By Sae👑</p>
                     <div style="display: flex; justify-content: space-around; margin: 20px 0;">
                         <div style="text-align: center;">
                             <i class="fas fa-rocket" style="font-size: 24px; color: #ff0080; margin-bottom: 8px;"></i>
